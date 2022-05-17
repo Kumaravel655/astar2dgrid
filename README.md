@@ -191,7 +191,8 @@ def g(n):
 
 
 Explain the Completeness and complexity of the algorithm:
-This algorithm is complete if it guarantees to return a correct answer for any arbitrary input (or, if no answer exists, it guarantees to return failure).
+
+The algorithm is able to find the solution path for the given problem. But the solution path, might not be the shortest path to reach the goal state.
 The time complexity of A* depends on the heuristic.
 
 
