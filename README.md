@@ -1,4 +1,8 @@
-# A* Path Finding Algorithm for 2D Grid World
+## EX NO:04
+## DATE:17.05.22
+# <p align="center"> A* Path Finding Algorithm for 2D Grid World
+
+ 
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -23,7 +27,9 @@ Mention its evaluation function f(n) = g(n) + h(n)
 
 ### STEP 5:
 The algorithm finds the best optimal solution
-
+<br>
+<br>
+<br>
 
 ## Draw the 2D 
 ![Screenshot (108)](https://user-images.githubusercontent.com/75235334/168843519-69ea72b2-c4e0-4d7d-87ed-9958b516ff8b.png)
@@ -184,8 +190,24 @@ def g(n):
     
     path_states(solution1)
 ```
-
-
+```
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+```
 ## OUTPUT:
 ![Screenshot (109)](https://user-images.githubusercontent.com/75235334/168844953-53e2837b-b5ab-4d94-9b1a-09ead3f2920c.png)
 
